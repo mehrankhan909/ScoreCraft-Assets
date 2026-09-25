@@ -23,7 +23,7 @@ https://github.com/mehrankhan909/ScoreCraft-Assets/releases/download/rag-v1/rag.
 - **Qwen3-0.6B-GGUF** — Apache-2.0, from the official
   [`Qwen/Qwen3-0.6B-GGUF`](https://huggingface.co/Qwen/Qwen3-0.6B-GGUF) repository.
   The `Q4_K_M` quant here was produced from the verified official `Q8_0` with
-  `llama-quantize --allow-reuantize` (llama.cpp commit `a25c986`).
+  `llama-quantize --allow-requantize` (llama.cpp commit `a25c986`).
 - **rag.db** — derived from the user's own MDCAT study material.
 
 ## Verification
